@@ -4,7 +4,7 @@
       "id": 1,
       "name": "Woody",
       "image": "http://www.pngmart.com/files/3/Toy-Story-Woody-PNG-Photos.png",
-      "likes": 107
+      "likes": "114 Likes"
     },
     {
       "id": 2,
@@ -43,12 +43,6 @@
       "likes": 0
     },
     {
-      "id": 8,
-      "name": "Little Green Men",
-      "image": "http://www.pngmart.com/files/3/Toy-Story-Alien-PNG-File.png",
-      "likes": -2
-    },
-    {
       "name": "James Wu",
       "image": "https://images.squarespace-cdn.com/content/v1/52a14204e4b0091e9a6ce622/1478823299574-1UZX9MIC2GX0DS2QA91C/ke17ZwdGBToddI8pDm48kHH9S2ID7_bpupQnTdrPcoF7gQa3H78H3Y0txjaiv_0fDoOvxcdMmMKkDsyUqMSsMWxHk725yiiHCCLfrh8O1z4YTzHvnKhyp6Da-NYroOW3ZGjoBKy3azqku80C789l0nQwvinDXPV4EYh2MRzm-RRB5rUELEv7EY2n0AZOrEupxpSyqbqKSgmzcCPWV5WMiQ/_PIN1664.jpg",
       "likes": 100,
@@ -61,16 +55,16 @@
       "id": 10
     },
     {
-      "name": "ian rosen",
-      "image": "https://lh3.googleusercontent.com/proxy/Swb2cnMgHxEJrS4O9-ZKseByf3X46xz-kNxcgedcj5eSo059PTe_cEjZpTP8FD-XoimjdlIqelrckj_0J5r3vKWiCLnOETvWKx3Q7NoXA6ZjvE6wzzEo-QAXYo91",
-      "likes": 12,
-      "id": 11
-    },
-    {
       "name": "james ",
       "image": "http://www.pngmart.com/files/3/Toy-Story-Woody-PNG-Photos.png",
       "likes": 0,
       "id": 12
+    },
+    {
+      "name": "cute doggo",
+      "image": "https://photos.puppyspot.com/9/listing/630869/photo/5449793_large-resize.jpg",
+      "likes": "8 Likes",
+      "id": 16
     }
   ]
 }
